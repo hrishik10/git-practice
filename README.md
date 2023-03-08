@@ -10,3 +10,6 @@ basic numpy practice
 
 ## Python Practice
 practice of python programming language
+
+## HackerRank Problems
+hackerrank problems solution
