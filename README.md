@@ -7,3 +7,6 @@ basic pandas pratice
 practicing the use of re library
 ## Numpy Practice
 basic numpy practice
+
+## Python Practice
+practice of python programming language
