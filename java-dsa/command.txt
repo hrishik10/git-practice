@@ -1,2 +1,2 @@
-javac -d ./bytecode
-java -classpath ./bytecode
+javac -d ./bytecodes
+java -classpath ./bytecodes
