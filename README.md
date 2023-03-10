@@ -13,3 +13,6 @@ practice of python programming language
 
 ## HackerRank Problems
 hackerrank problems solution
+
+## Java and DSA practice
+DSA practice using JAVA
